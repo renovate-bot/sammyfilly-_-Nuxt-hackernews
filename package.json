@@ -27,7 +27,7 @@
   "devDependencies": {
     "@nuxt/devtools": "^0.4.2",
     "@nuxt/eslint-config": "^0.1.1",
-    "@types/node": "^18.16.0",
+    "@types/node": "^20.17.0",
     "eslint": "^8.39.0",
     "nuxt": "^3.4.2",
     "postcss-nesting": "^11.2.2",
